@@ -1,0 +1,13 @@
+Accounting Application
+- Income data structure (array or hashmap)
+-- addIncome();
+--- Price, From, Date, Memo Note
+-- removeIncome();
+-- totalIncome();
+- Expense data structure (array or hashmap)
+-- addExpense();
+--- Price, To, Date, Memo Note, Check Num
+-- removeExpense();
+-- totalExpenses();
+
+Haven't gotten so far as I have been extremely busy the past few weeks.
